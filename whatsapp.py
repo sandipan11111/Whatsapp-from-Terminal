@@ -105,6 +105,7 @@ while True:
     if(check.lower()=='y'):
         break
 
+print("Hello From Sandipan")
 
 openchat(driver,options.name)
 thread1=Thread(target=receive,args=(driver,))
