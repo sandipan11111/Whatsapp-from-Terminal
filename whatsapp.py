@@ -19,6 +19,7 @@ def openchat(driver,name):
     search.click()
     search.send_keys(name)
     search.send_keys(Keys.RETURN)
+    print("Hello From Sandipan")
 
 
 def send(driver,msg):
