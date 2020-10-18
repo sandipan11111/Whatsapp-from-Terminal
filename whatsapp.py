@@ -29,6 +29,7 @@ def send(driver,msg):
     typ.send_keys(msg)
     typ.send_keys(Keys.RETURN)
     typ.perform()
+    print("Hello From Sandipan")
 
 def receive(driver):
 
