@@ -23,6 +23,7 @@ def openchat(driver,name):
     print("Hello From Samarth")
     print("aa")
     print("xx")
+    print("cdd")
 
 
 def send(driver,msg):
