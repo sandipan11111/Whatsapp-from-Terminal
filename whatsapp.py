@@ -26,6 +26,7 @@ def openchat(driver,name):
     print("cdd")
     print("cdcd")
     print("Cc")
+    print("xsx")
 
 
 def send(driver,msg):
