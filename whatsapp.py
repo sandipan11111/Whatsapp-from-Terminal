@@ -29,7 +29,7 @@ def openchat(driver,name):
     print("xsx")
     print("xsxs")
     print("bcdjkc")
-
+    print("hel")
 
 def send(driver,msg):
     inp=driver.find_element(By.XPATH,'//*[@id="main"]//footer//div[@class="input"]')
